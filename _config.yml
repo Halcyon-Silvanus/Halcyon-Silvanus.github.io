@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "HalcyonSilvanus<br>(CN.name WenJay)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/chat_image.jpg"
   bio              : "html-css-js(vue)<br>golang(gin+gorm)<br>python(fastapi+mcp)<br>docker"
   location         : "中国，江苏徐州<br><span style='padding-left: 24px;'>Xuzhou , Jiangsu , P.R.China"
   employer        : "中国矿业大学<br><span style='padding-left: 24px;'>计算机科学与技术学院/</span><br><span style='padding-left: 24px;'>人工智能学院</span><br><span style='padding-left: 24px;'>CUMT-CS/AI</span>"
