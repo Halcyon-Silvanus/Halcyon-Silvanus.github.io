@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Personal Homepage"
-description              : "The undergraduate student majoring in Data Science and Big Data Technology at China University of Mining and Technology-CS/AI."
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "中国矿业大学计算机科学与技术学院/人工智能学院数据科学与大数据技术专业本科生。\nThe undergraduate student majoring in Data Science and Big Data Technology at China University of Mining and Technology-CS/AI."
+repository               : "Halcyon-Silvanus/Halcyon-Silvanus.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,8 +25,8 @@ author:
                       (CN.name WenJay)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "html-css-js(vue)\ngolang(gin+gorm)\npython(fastapi+mcp)\ndocker"
-  location         : "Xuzhou , Jiangsu , P.R.China"
-  employer         : "China University of Mining and Technology(school)\nXuzhou Origin Logic Technology Co., Ltd.(owner company)"
+  location         : "中国，江苏徐州 \nXuzhou , Jiangsu , P.R.China"
+  employer         : "中国矿业大学\n计算机科学与技术学院/人工智能学院\nCUMT-CS/AI"
   pubmed           : 
   googlescholar    : 
   email            : "wen345586@163.com"
