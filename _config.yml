@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Personal Homepage"
 description              : "The undergraduate student majoring in Data Science and Big Data Technology at China University of Mining and Technology-CS/AI."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,9 +24,9 @@ author:
   name             : "HalcyonSilvanus\n
                       (CN.name WenJay)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "China University of Mining and Technology"
+  bio              : "html-css-js(vue)\ngolang(gin+gorm)\npython(fastapi+mcp)\ndocker"
   location         : "Xuzhou , Jiangsu , P.R.China"
-  employer         : "China University of Mining and Technology"
+  employer         : "China University of Mining and Technology(school)\nXuzhou Origin Logic Technology Co., Ltd.(owner company)"
   pubmed           : 
   googlescholar    : 
   email            : "wen345586@163.com"
