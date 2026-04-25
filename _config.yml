@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "The undergraduate student majoring in Data Science and Big Data Technology at China University of Mining and Technology-CS/AI."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,11 +21,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "HalcyonSilvanus(CN.name WenJay)"
+  name             : "HalcyonSilvanus\n
+                      (CN.name WenJay)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "China University of Mining and Technology"
   location         : "Xuzhou , Jiangsu , P.R.China"
-  employer         :
+  employer         : "China University of Mining and Technology"
   pubmed           : 
   googlescholar    : 
   email            : "wen345586@163.com"
