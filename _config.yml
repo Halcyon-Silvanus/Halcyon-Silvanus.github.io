@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Personal Homepage"
-description              : "中国矿业大学计算机科学与技术学院/人工智能学院数据科学与大数据技术专业本科生。\nThe undergraduate student majoring in Data Science and Big Data Technology at China University of Mining and Technology-CS/AI."
+description              : "中国矿业大学计算机科学与技术学院/人工智能学院数据科学与大数据技术专业本科生。<br>The undergraduate student majoring in Data Science and Big Data Technology at China University of Mining and Technology-CS/AI."
 repository               : "Halcyon-Silvanus/Halcyon-Silvanus.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,12 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "HalcyonSilvanus\n
-                      (CN.name WenJay)"
+  name             : "HalcyonSilvanus<br>(CN.name WenJay)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "html-css-js(vue)\ngolang(gin+gorm)\npython(fastapi+mcp)\ndocker"
-  location         : "中国，江苏徐州 \nXuzhou , Jiangsu , P.R.China"
-  employer         : "中国矿业大学\n计算机科学与技术学院/人工智能学院\nCUMT-CS/AI"
+  bio              : "html-css-js(vue)<br>golang(gin+gorm)<br>python(fastapi+mcp)<br>docker"
+  location         : "中国，江苏徐州<br>Xuzhou , Jiangsu , P.R.China"
+  employer         : "中国矿业大学<br>计算机科学与技术学院/<br>人工智能学院<br>CUMT-CS/AI"
   pubmed           : 
   googlescholar    : 
   email            : "wen345586@163.com"
